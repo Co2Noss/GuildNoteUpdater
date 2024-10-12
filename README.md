@@ -11,7 +11,7 @@ Guild Note Updater is a World of Warcraft addon that automatically updates the g
 ## How to Use
 1. Install the addon by copying it into your WoW `Interface/AddOns` folder.
 2. Once installed, the addon will automatically update the guild note each time the player logs in or changes gear, spec, or professions.
-3. You can open the settings UI via the command `/guildupdate` to configure the options such as professions and main/alt status.
+3. You can open the settings UI via the command `/guildupdate` or use the alias `/gnu` to configure the options such as professions and main/alt status.
 
 ## Installation
 - Clone or download this repository.
